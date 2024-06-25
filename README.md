@@ -1,5 +1,11 @@
 # FortniteTokens
 
+## ACMilanCup
+
+| Token |
+|-------|
+| ACMilanCup_EU |
+
 ## ARENA
 
 | Token |
@@ -114,6 +120,12 @@
 | ARENA_S21v2_Division7 |
 | ARENA_S21v2_Division8 |
 
+## ASRomaCup
+
+| Token |
+|-------|
+| ASRomaCup_EU |
+
 ## Arena
 
 | Token |
@@ -152,6 +164,13 @@
 | ArenaZBM_S21_Division5 |
 | ArenaZBM_S21_Division6 |
 | ArenaZBM_S21_Division7 |
+| ArenaZBM_S21_Division8 |
+
+## AtlantaUnitedFCCup
+
+| Token |
+|-------|
+| AtlantaUnitedFCCup_NAE |
 
 ## BLUECHEESEARENA
 
@@ -226,6 +245,12 @@
 |-------|
 | FNCS_Invitational_Influencer |
 
+## FazeCityCup
+
+| Token |
+|-------|
+| FazeCityCup_EU |
+
 ## FreeForAllArenaTest
 
 | Token |
@@ -245,8 +270,18 @@
 
 | Token |
 |-------|
+| GroupIdentity_GeoIdentity_australia |
+| GroupIdentity_GeoIdentity_canada |
 | GroupIdentity_GeoIdentity_global |
+| GroupIdentity_GeoIdentity_ireland |
+| GroupIdentity_GeoIdentity_spain |
 | GroupIdentity_GeoIdentity_unitedstates |
+
+## InterMilanCup
+
+| Token |
+|-------|
+| InterMilanCup_EU |
 
 ## LGARENA
 
@@ -285,6 +320,12 @@
 | Token |
 |-------|
 | LimitedTestEventNA |
+
+## LosAngelesFCCup
+
+| Token |
+|-------|
+| LosAngelesFCCup_NAW |
 
 ## LuxeCup
 
@@ -361,39 +402,77 @@
 | RegionLock_S12_FNCS_Week4_NAW_PC |
 | RegionLock_S13_AquaNyhroxThrowbackCup_EU |
 | RegionLock_S13_AquaNyhroxThrowbackCup_NAE |
+| RegionLock_S13_BughaThrowbackCup_NAE |
 | RegionLock_S14_CC_Champions_NAW_Week3 |
 | RegionLock_S14_CC_Platform_EU_Console_Week2 |
+| RegionLock_S14_CC_Platform_NAE_PC_Week1 |
 | RegionLock_S14_CC_Platform_NAE_PC_Week2 |
 | RegionLock_S14_FNCS_NAW_PC |
 | RegionLock_S14_MarvelSuperCup_NAE |
 | RegionLock_S15_FNCS_NAE |
 | RegionLock_S15_FrostyFrenzy_NAE |
+| RegionLock_S15_FrostyFrenzy_NAW |
 | RegionLock_S16_FNCS_NAE |
+| RegionLock_S16_NeymarJrCup_BR |
 | RegionLock_S16_NeymarJrCup_EU |
 | RegionLock_S16_NeymarJrCup_NAE |
 | RegionLock_S17_FNCS_NAE |
 | RegionLock_S24_MamaBenjyFishy_NA |
 | RegionLock_S24_TriosZBVictoryCashCup_NAC |
+| RegionLock_S25_FNCS_Major3_NAC |
 | RegionLock_S25_JJKCup_NAC |
+| RegionLock_S25_PlaystationCupJune_ME |
+| RegionLock_S25_PlaystationCupJune_NAC |
+| RegionLock_S25_PlaystationCupZBJune_ME |
+| RegionLock_S25_SoloVictoryCashCup_NAC |
+| RegionLock_S26_FNCSCommunityCup_ME |
 | RegionLock_S26_FNCSCommunityCup_NAC |
+| RegionLock_S26_FNCSCommunityCup_OCE |
+| RegionLock_S26_MixUpMondaysBR_OCE |
+| RegionLock_S26_PlaystationCupSeptember_NAC |
+| RegionLock_S26_PlaystationCupZBSeptember_NAC |
 | RegionLock_S26_SoloVictoryCashCup_NAC |
+| RegionLock_S26_SoloVictoryCashCup_OCE |
+| RegionLock_S27_DuosZBVictoryCashCup_NAC |
 | RegionLock_S27_SoloVictoryCashCup_NAC |
+| RegionLock_S28_ConsoleCashCupsZB_NAC |
+| RegionLock_S28_ConsoleCashCups_NAC |
+| RegionLock_S28_ConsoleCashCups_OCE |
 | RegionLock_S28_DuosCashCup_NAC |
+| RegionLock_S28_DuosZBVictoryCashCup_NAC |
 | RegionLock_S28_FNCSCommunityCups_NAC |
+| RegionLock_S28_FNCSCommunityCups_NAC_new |
 | RegionLock_S28_FNCS_Major1_NAC |
+| RegionLock_S28_FNCS_Major1_OCE |
 | RegionLock_S28_MixUpMondaysBR_NAC |
+| RegionLock_S28_PlaystationCupZBDecember_NAC |
 | RegionLock_S28_SoloVictoryCashCup_NAC |
+| RegionLock_S29_ConsoleCashCups_NAC |
 | RegionLock_S29_DuosCashCup_NAC |
+| RegionLock_S29_DuosZBVictoryCashCup_NAC |
 | RegionLock_S29_FNCS_Major2_NAC |
 | RegionLock_S29_MixUpMondaysBR_NAC |
+| RegionLock_S29_PlaystationCupMarch_NAC |
+| RegionLock_S29_PlaystationCupZBMarch_ME |
+| RegionLock_S29_PlaystationCupZBMarch_NAC |
+| RegionLock_S29_Rise_of_Midas_Cup_ME |
 | RegionLock_S29_Rise_of_Midas_Cup_NAC |
 | RegionLock_S29_SoloVictoryCashCup_NAC |
+| RegionLock_S30_DuosCashCupZB_NAC |
 | RegionLock_S30_DuosCashCup_NAC |
 | RegionLock_S30_FNCS_Major3_EU |
 | RegionLock_S30_FNCS_Major3_NAC |
 | RegionLock_S30_NickEh_EU |
 | RegionLock_S30_NickEh_NAC |
+| RegionLock_S30_NickEh_OCE |
+| RegionLock_S30_SoloVictoryCashCup_NAC |
 | RegionLock_S30_SquadsVictoryCashCup_NAC |
+
+## RematchCup
+
+| Token |
+|-------|
+| RematchCup_BR |
 
 ## S10
 
@@ -494,12 +573,29 @@
 
 | Token |
 |-------|
+| S21_BMCollegeCup_Open |
 | S21_LCQuickCupTriosZBM_EU_Event1_Round2 |
 | S21_LCQuickCupTriosZBM_NAW_Event1_Round2 |
 | S21_LCQuickCupTriosZBM_NAW_Event3_Round2 |
 | S21_TriosCashCupZBM_NAE_Event6_Round2 |
 | S21_TriosCashCupZBM_NAW_Event1_Round2 |
 | S21_TriosCashCupZBM_NAW_Event7_Round2 |
+| S21_ZBMCollegeCup_Open |
+
+## S21GalaxyCupWinner
+
+| Token |
+|-------|
+| S21GalaxyCupWinner |
+
+## S22
+
+| Token |
+|-------|
+| S22_BMCollegeCupNov_Open |
+| S22_BMCollegeCupOct_Open |
+| S22_ZBMCollegeCupNov_Open |
+| S22_ZBMCollegeCupOct_Open |
 
 ## S22InvitationalLAN
 
@@ -508,17 +604,46 @@
 | S22InvitationalLAN |
 | S22InvitationalLAN_Test |
 
+## S23
+
+| Token |
+|-------|
+| S23_CollegiateCupJan_NAE_Qualifier |
+| S23_CollegiateCupJan_NAW_Qualifier |
+| S23_CollegiateZBTrios_NA_Access |
+
 ## S24
 
 | Token |
 |-------|
 | S24_TriosZBVictoryCashCup_Event2Round2_NAC |
 
+## S24CollegiateCup
+
+| Token |
+|-------|
+| S24CollegiateCup_NAC |
+
+## S24CollegiateCupDuosZB
+
+| Token |
+|-------|
+| S24CollegiateCupDuosZB_NAC |
+
 ## S26
 
 | Token |
 |-------|
 | S26_SoloVictoryCashCup_Event1Round2_NAC |
+| S26_SoloVictoryCashCup_Event5Round2_NAC |
+
+## S28
+
+| Token |
+|-------|
+| S28_DuosZBVictoryCashCup_Event5Round2_NAC |
+| S28_DuosZBVictoryCashCup_Event6Round2_NAC |
+| S28_DuosZBVictoryCashCup_Event7Round2_NAC |
 
 ## S29
 
@@ -526,6 +651,7 @@
 |-------|
 | S29_FNCS_Major2_Qualifier2Round2_NAC |
 | S29_FNCS_Major2_Qualifier2Round3_NAC |
+| S29_SoloVictoryCashCup_Event2Round2_NAC |
 | S29_SoloVictoryCashCup_Event7Round2_NAC |
 
 ## S30
@@ -534,8 +660,10 @@
 |-------|
 | S30_FNCS_Major3_Qualifier1Round2_NAC |
 | S30_FNCS_Major3_Qualifier1Round3_NAC |
+| S30_FNCS_Major3_Qualifier2Round2_NAC |
 | S30_FNCS_Major3_Qualifier2Round2_NACv2 |
 | S30_FNCS_Major3_Qualifier2Round3_NAC |
+| S30_SoloZBVictoryCashCup_Event4Round2_NAC |
 | S30_SquadsVictoryCashCup_Event2Round2_NAC |
 
 ## ScallywagCup
@@ -548,13 +676,34 @@
 
 | Token |
 |-------|
+| Season23CreedCup_ME |
 | Season23CreedCup_NAE |
+
+## Season23DuosFillQuickCup
+
+| Token |
+|-------|
+| Season23DuosFillQuickCup_EU |
 
 ## Season23FNCSCommunityCup
 
 | Token |
 |-------|
+| Season23FNCSCommunityCup_ME |
 | Season23FNCSCommunityCup_NAE |
+
+## Season23PlaystationCupFeb
+
+| Token |
+|-------|
+| Season23PlaystationCupFeb_ME |
+
+## Season23PlaystationCupJan
+
+| Token |
+|-------|
+| Season23PlaystationCupJan_EU |
+| Season23PlaystationCupJan_ME |
 
 ## Season23SoloCashCup
 
@@ -568,11 +717,18 @@
 |-------|
 | Season23ZBMCashCup_NAE |
 
+## Season23ZBMQuickCupFill
+
+| Token |
+|-------|
+| Season23ZBMQuickCupFill_EU |
+
 ## Season23flakespower
 
 | Token |
 |-------|
 | Season23flakespower_EU |
+| Season23flakespower_ME |
 | Season23flakespower_NAE |
 
 ## Season23thekidlaroi
@@ -580,6 +736,7 @@
 | Token |
 |-------|
 | Season23thekidlaroi_EU |
+| Season23thekidlaroi_ME |
 | Season23thekidlaroi_NAE |
 
 ## Season24DuosCashCup
@@ -588,11 +745,24 @@
 |-------|
 | Season24DuosCashCup_NAC |
 
+## Season24FNCSCommunityCup
+
+| Token |
+|-------|
+| Season24FNCSCommunityCup_ME |
+
 ## Season24PlaystationCupMar
 
 | Token |
 |-------|
+| Season24PlaystationCupMar_EU |
 | Season24PlaystationCupMar_NAC |
+
+## Season24RenegadeRunnerCupZeroBuild
+
+| Token |
+|-------|
+| Season24RenegadeRunnerCupZeroBuild_EU |
 
 ## Season24ZBTriosFillQuickCup
 
@@ -600,17 +770,44 @@
 |-------|
 | Season24ZBTriosFillQuickCup_NAC |
 
+## Season25DuosCashCup
+
+| Token |
+|-------|
+| Season25DuosCashCup_NAC |
+
+## Season25DuosFillQuickCup
+
+| Token |
+|-------|
+| Season25DuosFillQuickCup_NAC |
+
 ## Season25GalaxyCup4
 
 | Token |
 |-------|
+| Season25GalaxyCup4_BR |
+| Season25GalaxyCup4_ME |
 | Season25GalaxyCup4_NAC |
+
+## Season25ZBDuosFillQuickCup
+
+| Token |
+|-------|
+| Season25ZBDuosFillQuickCup_NAC |
 
 ## Season26DuosCashCup
 
 | Token |
 |-------|
 | Season26DuosCashCup_NAC |
+| Season26DuosCashCup_OCE |
+
+## SeattleSoundersCup
+
+| Token |
+|-------|
+| SeattleSoundersCup_NAW |
 
 ## ShareTheLove
 
