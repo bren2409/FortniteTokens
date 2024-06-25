@@ -195,6 +195,12 @@
 |-------|
 | BoxFightArenaTest_S16_Division1 |
 
+## CompetitiveCupSolo
+
+| Token |
+|-------|
+| CompetitiveCupSolo |
+
 ## DRToken
 
 | Token |
@@ -205,6 +211,7 @@
 
 | Token |
 |-------|
+| EpicAccountPrizingRestriction |
 | EpicAccountPrizingRestriction_v2 |
 
 ## EpicEmployee
@@ -238,7 +245,14 @@
 
 | Token |
 |-------|
+| GroupIdentity_GeoIdentity_global |
 | GroupIdentity_GeoIdentity_unitedstates |
+
+## LGARENA
+
+| Token |
+|-------|
+| LGARENA_S23_Division1 |
 
 ## LGArena
 
@@ -338,19 +352,23 @@
 | RegionLock_S15_FNCS_NAE |
 | RegionLock_S15_FrostyFrenzy_NAE |
 | RegionLock_S16_FNCS_NAE |
+| RegionLock_S16_NeymarJrCup_NAE |
 | RegionLock_S17_FNCS_NAE |
 | RegionLock_S24_TriosZBVictoryCashCup_NAC |
 | RegionLock_S25_JJKCup_NAC |
 | RegionLock_S26_SoloVictoryCashCup_NAC |
+| RegionLock_S28_FNCSCommunityCups_NAC |
 | RegionLock_S28_MixUpMondaysBR_NAC |
 | RegionLock_S29_DuosCashCup_NAC |
 | RegionLock_S29_FNCS_Major2_NAC |
 | RegionLock_S29_MixUpMondaysBR_NAC |
+| RegionLock_S29_Rise_of_Midas_Cup_NAC |
 | RegionLock_S29_SoloVictoryCashCup_NAC |
 | RegionLock_S30_DuosCashCup_NAC |
 | RegionLock_S30_FNCS_Major3_EU |
 | RegionLock_S30_FNCS_Major3_NAC |
 | RegionLock_S30_NickEh_EU |
+| RegionLock_S30_NickEh_NAC |
 | RegionLock_S30_SquadsVictoryCashCup_NAC |
 
 ## S10
@@ -486,6 +504,18 @@
 |-------|
 | ScallywagCup_RoundOne |
 
+## Season23CreedCup
+
+| Token |
+|-------|
+| Season23CreedCup_NAE |
+
+## Season23FNCSCommunityCup
+
+| Token |
+|-------|
+| Season23FNCSCommunityCup_NAE |
+
 ## Season23ZBMCashCup
 
 | Token |
@@ -497,18 +527,32 @@
 | Token |
 |-------|
 | Season23flakespower_EU |
+| Season23flakespower_NAE |
 
 ## Season23thekidlaroi
 
 | Token |
 |-------|
 | Season23thekidlaroi_EU |
+| Season23thekidlaroi_NAE |
+
+## Season24PlaystationCupMar
+
+| Token |
+|-------|
+| Season24PlaystationCupMar_NAC |
 
 ## Season24ZBTriosFillQuickCup
 
 | Token |
 |-------|
 | Season24ZBTriosFillQuickCup_NAC |
+
+## Season25GalaxyCup4
+
+| Token |
+|-------|
+| Season25GalaxyCup4_NAC |
 
 ## Season26DuosCashCup
 
@@ -536,6 +580,7 @@
 | Token |
 |-------|
 | TRCS_Finals_NA |
+| TRCS_chap |
 | TRCS_sypherpk |
 
 ## WorldCupWarmup
