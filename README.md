@@ -301,14 +301,19 @@
 
 | Token |
 |-------|
+| OnlineOpen_Week10_NAE_RoundTwo |
 | OnlineOpen_Week10_NAW_RoundTwo |
 | OnlineOpen_Week1_NAE_RoundTwo |
+| OnlineOpen_Week2_NAE_RoundTwo |
 | OnlineOpen_Week2_NAW_RoundTwo |
 | OnlineOpen_Week3_NAE_RoundTwo |
+| OnlineOpen_Week4_NAE_RoundTwo |
 | OnlineOpen_Week4_NAW_RoundTwo |
 | OnlineOpen_Week5_NAE_RoundTwo |
+| OnlineOpen_Week6_NAE_RoundTwo |
 | OnlineOpen_Week6_NAW_RoundTwo |
 | OnlineOpen_Week7_NAE_RoundTwo |
+| OnlineOpen_Week8_NAE_RoundTwo |
 | OnlineOpen_Week8_NAW_RoundTwo |
 | OnlineOpen_Week9_NAE_RoundTwo |
 
@@ -324,14 +329,19 @@
 |-------|
 | RegionLock_CashCup_Trios1_NAE |
 | RegionLock_CashCup_Trios2_NAE |
+| RegionLock_OnlineOpen_Week10_NAE |
 | RegionLock_OnlineOpen_Week10_NAW |
 | RegionLock_OnlineOpen_Week1_NAE |
+| RegionLock_OnlineOpen_Week2_NAE |
 | RegionLock_OnlineOpen_Week2_NAW |
 | RegionLock_OnlineOpen_Week3_NAE |
+| RegionLock_OnlineOpen_Week4_NAE |
 | RegionLock_OnlineOpen_Week4_NAW |
 | RegionLock_OnlineOpen_Week5_NAE |
+| RegionLock_OnlineOpen_Week6_NAE |
 | RegionLock_OnlineOpen_Week6_NAW |
 | RegionLock_OnlineOpen_Week7_NAE |
+| RegionLock_OnlineOpen_Week8_NAE |
 | RegionLock_OnlineOpen_Week8_NAW |
 | RegionLock_OnlineOpen_Week9_NAE |
 | RegionLock_S10_FNCS_Week1_NAE |
@@ -341,6 +351,7 @@
 | RegionLock_S10_FNCS_Week5_NAE |
 | RegionLock_S11_FNCS_Warmup_NAE |
 | RegionLock_S11_FNCS_Week1_NAE |
+| RegionLock_S11_FNCS_Week2_NAE |
 | RegionLock_S11_FNCS_Week3_NAE |
 | RegionLock_S11_FNCS_Week4_NAE |
 | RegionLock_S12_FNCS_Week1_NAE_PC |
@@ -389,7 +400,12 @@
 
 | Token |
 |-------|
+| S11_FNCS_Finals_NAE_GrandFinals |
+| S11_FNCS_Finals_NAE_Heat1 |
 | S11_FNCS_Warmup_NAE_RoundTwo |
+| S11_FNCS_Week1_NAE_RoundTwo |
+| S11_FNCS_Week2_NAE_RoundTwo |
+| S11_FNCS_Week3_NAE_RoundThree |
 | S11_FNCS_Week3_NAE_RoundTwo |
 | S11_FNCS_Week4_NAE_RoundTwo |
 
@@ -468,6 +484,7 @@
 
 | Token |
 |-------|
+| S21_LCQuickCupTriosZBM_EU_Event1_Round2 |
 | S21_LCQuickCupTriosZBM_NAW_Event1_Round2 |
 | S21_LCQuickCupTriosZBM_NAW_Event3_Round2 |
 | S21_TriosCashCupZBM_NAE_Event6_Round2 |
@@ -596,10 +613,17 @@
 | TRCS_chap |
 | TRCS_sypherpk |
 
+## TriosOneDayCup1
+
+| Token |
+|-------|
+| TriosOneDayCup1_Round2_NA |
+
 ## WorldCupWarmup
 
 | Token |
 |-------|
+| WorldCupWarmup_EU_RoundTwo |
 | WorldCupWarmup_NAE_RoundTwo |
 | WorldCupWarmup_NAW_RoundTwo |
 
