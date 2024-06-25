@@ -346,12 +346,15 @@
 | RegionLock_S12_FNCS_Week1_NAE_PC |
 | RegionLock_S12_FNCS_Week2_NAE_PC |
 | RegionLock_S12_FNCS_Week4_NAW_PC |
+| RegionLock_S13_AquaNyhroxThrowbackCup_EU |
 | RegionLock_S14_CC_Champions_NAW_Week3 |
+| RegionLock_S14_CC_Platform_EU_Console_Week2 |
 | RegionLock_S14_FNCS_NAW_PC |
 | RegionLock_S14_MarvelSuperCup_NAE |
 | RegionLock_S15_FNCS_NAE |
 | RegionLock_S15_FrostyFrenzy_NAE |
 | RegionLock_S16_FNCS_NAE |
+| RegionLock_S16_NeymarJrCup_EU |
 | RegionLock_S16_NeymarJrCup_NAE |
 | RegionLock_S17_FNCS_NAE |
 | RegionLock_S24_TriosZBVictoryCashCup_NAC |
@@ -399,10 +402,20 @@
 | S12_FNCS_Invitational_Week1_NAE |
 | S12_FNCS_Week4_NAW_PC_RoundTwo |
 
+## S13
+
+| Token |
+|-------|
+| S13_AmarTriosCup_Round1 |
+| S13_JacobSoloCup_Round1 |
+| S13_MongraalSoloCup_Round1 |
+| S13_MrSavageTriosCup_Round1 |
+
 ## S14
 
 | Token |
 |-------|
+| S14_Dreamhack_September_Heats |
 | S14_FNCS_Qualifier3_NAW_PC_Round2 |
 | S14_Glitchcon_Finals |
 | S14_OnePercentCup_Round1 |
