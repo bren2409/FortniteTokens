@@ -1,4 +1,5 @@
 # FortniteTokens
+These tokens are granted for competitive tournaments, access/permissions to certain things like tournament dev/play testing, and other Fortnite events.
 
 ## ACMilanCup
 
