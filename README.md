@@ -253,6 +253,8 @@
 | Token |
 |-------|
 | LGARENA_S23_Division1 |
+| LGARENA_S23_Division2 |
+| LGARENA_S23_Division3 |
 
 ## LGArena
 
@@ -358,8 +360,10 @@
 | RegionLock_S12_FNCS_Week2_NAE_PC |
 | RegionLock_S12_FNCS_Week4_NAW_PC |
 | RegionLock_S13_AquaNyhroxThrowbackCup_EU |
+| RegionLock_S13_AquaNyhroxThrowbackCup_NAE |
 | RegionLock_S14_CC_Champions_NAW_Week3 |
 | RegionLock_S14_CC_Platform_EU_Console_Week2 |
+| RegionLock_S14_CC_Platform_NAE_PC_Week2 |
 | RegionLock_S14_FNCS_NAW_PC |
 | RegionLock_S14_MarvelSuperCup_NAE |
 | RegionLock_S15_FNCS_NAE |
@@ -368,11 +372,17 @@
 | RegionLock_S16_NeymarJrCup_EU |
 | RegionLock_S16_NeymarJrCup_NAE |
 | RegionLock_S17_FNCS_NAE |
+| RegionLock_S24_MamaBenjyFishy_NA |
 | RegionLock_S24_TriosZBVictoryCashCup_NAC |
 | RegionLock_S25_JJKCup_NAC |
+| RegionLock_S26_FNCSCommunityCup_NAC |
 | RegionLock_S26_SoloVictoryCashCup_NAC |
+| RegionLock_S27_SoloVictoryCashCup_NAC |
+| RegionLock_S28_DuosCashCup_NAC |
 | RegionLock_S28_FNCSCommunityCups_NAC |
+| RegionLock_S28_FNCS_Major1_NAC |
 | RegionLock_S28_MixUpMondaysBR_NAC |
+| RegionLock_S28_SoloVictoryCashCup_NAC |
 | RegionLock_S29_DuosCashCup_NAC |
 | RegionLock_S29_FNCS_Major2_NAC |
 | RegionLock_S29_MixUpMondaysBR_NAC |
@@ -546,6 +556,12 @@
 |-------|
 | Season23FNCSCommunityCup_NAE |
 
+## Season23SoloCashCup
+
+| Token |
+|-------|
+| Season23SoloCashCup_NAE |
+
 ## Season23ZBMCashCup
 
 | Token |
@@ -565,6 +581,12 @@
 |-------|
 | Season23thekidlaroi_EU |
 | Season23thekidlaroi_NAE |
+
+## Season24DuosCashCup
+
+| Token |
+|-------|
+| Season24DuosCashCup_NAC |
 
 ## Season24PlaystationCupMar
 
